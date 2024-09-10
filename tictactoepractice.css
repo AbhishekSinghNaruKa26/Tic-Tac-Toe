@@ -41,6 +41,7 @@ h1{
 .game :hover{
     cursor: pointer;
 }
+
 #reset-btn{
     padding: 1rem;
     font-size: 1.5rem;
